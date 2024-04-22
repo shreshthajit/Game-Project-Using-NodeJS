@@ -1,0 +1,172 @@
+[
+    {
+        "key": "Fullstack Developer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Ffulls.png",
+        "values": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Node.js",
+            "Django",
+            "Ruby on Rails",
+            "MySQL",
+            "MongoDB",
+            "React",
+            "Angular",
+            "Vue.js",
+            "Express",
+            "Flask",
+            "Laravel",
+            "Version Control (Git)"
+        ]
+    },
+    {
+        "key": "Backend Development",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fbakd.png",
+        "values": [
+            "Node.js",
+            "Django",
+            "Ruby on Rails",
+            "MySQL",
+            "MongoDB",
+            "API Design and Development",
+            "Server Management and Deployment",
+            "Version Control (Git)"
+        ]
+    },
+    {
+        "key": "Frontend Development",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Ffrnd.png",
+        "values": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Angular",
+            "Vue.js",
+            "Version Control (Git)"
+        ]
+    },
+    {
+        "key": "Android Developer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fandroid.png",
+        "values": [
+            "Java",
+            "Kotlin",
+            "Android SDK",
+            "XML",
+            "Android Studio"
+        ]
+    },
+    {
+        "key": "iOS Developer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fios.png",
+        "values": [
+            "Swift",
+            "Objective-C",
+            "iOS SDK",
+            "Xcode",
+            "UIKit"
+        ]
+    },
+    {
+        "key": "DevOps Engineer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fdevops.png",
+        "values": [
+            "CI/CD",
+            "Infrastructure as Code (IaC)",
+            "Version Control (Git)",
+            "Containerization",
+            "Docker",
+            "Kubernetes",
+            "Scripting and Automation",
+            "Shell",
+            "Python"
+        ]
+    },
+    {
+        "key": "AWS Engineer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Faws.png",
+        "values": [
+            "Amazon Web Services (AWS)",
+            "Cloud Computing",
+            "Infrastructure as Code (IaC)",
+            "AWS Management Console",
+            "Security and Compliance in AWS"
+        ]
+    },
+    {
+        "key": "GCP Engineer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fgcp.png",
+        "values": [
+            "Google Cloud Platform (GCP)",
+            "Cloud Computing",
+            "Infrastructure as Code (IaC)",
+            "GCP Console",
+            "Data Storage and Processing in GCP"
+        ]
+    },
+    {
+        "key": "AI/ML Engineer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Faiml.png",
+        "values": [
+            "Machine Learning Algorithms",
+            "Python",
+            "R",
+            "TensorFlow",
+            "PyTorch",
+            "Data Science and Statistics",
+            "Model Deployment and Productionization"
+        ]
+    },
+    {
+        "key": "Data Scientist",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fds.png",
+        "values": [
+            "Machine Learning",
+            "Python",
+            "Data Analysis",
+            "Statistics",
+            "Data Visualization"
+        ]
+    },
+    {
+        "key": "Database Administrator",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fdba.png",
+        "values": [
+            "Database Management Systems",
+            "MySQL",
+            "Oracle",
+            "SQL Server",
+            "Database Design",
+            "SQL (Structured Query Language)",
+            "Database Security",
+            "Backup and Recovery"
+        ]
+    },
+    {
+        "key": "Quality Assurance Engineer",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fqa.png",
+        "values": [
+            "Test Automation",
+            "Test Planning",
+            "Test Case Design",
+            "Quality Assurance (QA)",
+            "Regression Testing"
+        ]
+    },
+    {
+        "key": "System Administrator",
+        "img": "https://pub-a72c1cc765b1495fa9f672373b3d644c.r2.dev/sub_img%2Fsysad.png",
+        "values": [
+            "Operating Systems",
+            "Linux",
+            "Windows",
+            "Network Administration",
+            "System Security",
+            "Troubleshooting",
+            "Shell scripting",
+            "PowerShell"
+        ]
+    }
+]
